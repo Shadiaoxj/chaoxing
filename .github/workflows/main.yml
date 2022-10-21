@@ -13,7 +13,7 @@ jobs:
       matrix:
         include:
           - os: windows-latest
-            architecture: 'x86'
+            architecture: 'x64'
             name: 'win32'
 
     steps:
